@@ -1,0 +1,143 @@
+body {
+  background-color: rgb(238, 238, 238);
+  width: auto;
+  height: auto;
+  padding: 0px;
+  border: 5px;
+  margin: 0px;
+}
+#title {
+  overflow: hidden;
+  color: black;
+  font-size: 40px;
+  text-decoration: none;
+}
+.links {
+  overflow: hidden;
+  background-color: #333;
+}
+.links a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.links a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+#fronts {
+  background-image: url(images/bottom.jpeg);
+  background-size: cover;
+}
+#tag {
+  color:#ddd
+}
+#tbox1 {
+  background-color: #333;
+  font-size: 50px;
+  width: auto;
+  height: auto;
+  padding: 5px;
+  border: 5px;
+  margin: 0px;
+  color: #ddd;
+}
+#b1t {
+  width: auto;
+  height: auto;
+  padding: 5px;
+  border: 5px;
+  margin: 0px;
+}
+.front {
+  display: inline-block;
+  font-size: 50px;
+  width: 500px;
+  height: auto;
+  padding: 5px;
+  border: 5px;
+  margin: 0px;
+}
+#text {
+  font-size: 40px;
+}
+#tbox2 {
+  background-color: rgb(0, 164, 109);
+  font-size: 30px;
+  width: auto;
+  height: auto;
+  padding: 5px;
+  border: 5px;
+  margin: 0px;
+}
+#text2 {
+  font-size: 40px;
+}
+#attention {
+  width: 75%;
+  height: auto;
+  padding: 5px;
+  border: 5px;
+  margin: 0px;
+}
+#front2:hover {
+  background-image: url(images/sponge.gif);
+  background-size: cover;
+}
+#front2 {
+  width: 410px;
+  height: 283px;
+  padding: 5px;
+  border: 5px;
+  margin: 0px;
+  background-image: url(images/the.png);
+  background-size: cover;
+  transition-duration: 1s;
+}
+#m-text {
+  font-size: 60px;
+  width: auto;
+  height: auto;
+  padding: 5px;
+  border: 5px;
+  margin: 0px;
+}
+.mission-box {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  padding: 5px;
+  border: 5px;
+  margin: 0px;
+}
+#text3 {
+  font-size: 50px;
+  width: 900px;
+  height: auto;
+  padding: 5px;
+  border: 5px;
+  margin: 0px;
+}
+.footer {
+  background-color: #333;
+  color: #ddd;
+  width: auto;
+  height: auto;
+  padding: 5px;
+  border: 5px;
+  margin: 0px;
+}
+#copy {
+  font-size: 10px;
+}
+.top {
+  background-color: rgb(0, 164, 109);
+  width: auto;
+  height: auto;
+  padding: 5px;
+  border: 5px;
+  margin: 0px;
+}
